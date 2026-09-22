@@ -10,6 +10,8 @@ Focused on **Cloud Native, DevSecOps, and Platform Engineering**.
 - ⚡ **Passions:** Cloud-native architecture, infrastructure as code, and homelabbing.
 - 💬 **Let's talk about:** Bridging technical architecture with business strategy & cloud security.
 
+---
+
 ### 📜 Certifications
 
 | Certification | Issuer | Status | Verification |
