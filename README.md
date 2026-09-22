@@ -10,6 +10,15 @@ Focused on **Cloud Native, DevSecOps, and Platform Engineering**.
 - ⚡ **Passions:** Cloud-native architecture, infrastructure as code, and homelabbing.
 - 💬 **Let's talk about:** Bridging technical architecture with business strategy & cloud security.
 
+### 📜 Certifications
+
+| Certification | Issuer | Status | Verification |
+| :--- | :--- | :--- | :--- |
+| **AWS Certified Solutions Architect – Associate** `(SAA-C03)` | Amazon Web Services | Completed | [Verify on Credly](https://www.credly.com/badges/54e2db71-0e1a-472c-a40f-c7d13b0aba23/linked_in_profile) |
+| **GitHub Foundations** `(GH-900)` | GitHub | Completed | [Verify on Credly](https://www.credly.com/badges/058b4e86-0a90-4fab-b309-e299fb95affa/linked_in_profile) |
+| **Microsoft Certified: Azure Data Fundamentals** `(DP-900)` | Microsoft | Completed | [Verify on Credly](https://www.credly.com/badges/f383bece-1324-4292-bc4f-35daec2ac47b/linked_in_profile) |
+| **GitHub Actions** `(GH-200)` | GitHub | *In Progress* ⏳ | Planned |
+
 ---
 
 ### 🛠️ Tech Stack
