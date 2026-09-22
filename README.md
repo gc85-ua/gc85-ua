@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Guoqing Cao 👋
 
-<!--
-**gc85-ua/gc85-ua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Engineering & Business Administration (Dual Degree) | M.Sc. in Cybersecurity**  
+Focused on **Cloud Native, DevSecOps, and Platform Engineering**.
 
-Here are some ideas to get you started:
+- 🔭 **Featured Projects:**
+  - [startups-analysis-spain](https://github.com/gc85-ua/startups-analysis-spain) – Data-driven analysis of the Spanish startup ecosystem.
+  - [dias-api](https://github.com/gc85-ua/dias-api) – Containerized web scraper with integrated observability and CI automation.
+- 🌱 **Deepening in:** Cloud infrastructure, CI/CD automation, and Platform Engineering.
+- ⚡ **Passions:** Cloud-native architecture, infrastructure as code, and homelabbing.
+- 💬 **Let's talk about:** Bridging technical architecture with business strategy & cloud security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+**Cloud & Infrastructure:**  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
+
+**Backend & Data:**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+
+**Data Science & Machine Learning:**  
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+
+**DevOps & Tools:**  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
+![Forgejo](https://img.shields.io/badge/Forgejo-%23FB923C.svg?style=flat&logo=forgejo&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=flat&logo=selenium&logoColor=white)
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=gc85-ua&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=gc85-ua&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caoguoqing/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cao.gq@proton.me)
